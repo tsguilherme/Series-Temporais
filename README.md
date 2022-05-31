@@ -1,2 +1,2 @@
 # Séries Temporais
- Análise de séries temporais do consumo de energia elétria no setor industrial 
+ Análise de séries temporais do consumo de energia elétrica no setor industrial 
